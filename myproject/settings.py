@@ -25,7 +25,7 @@ SECRET_KEY = '+=+z+uh)u(e0e!r!y#o%6v@e$62=+^jbpibwccguowxnc-n4q='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['45.77.62.125','afro-wealth.com','www.afro-wealth.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
